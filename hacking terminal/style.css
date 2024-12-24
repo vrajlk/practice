@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(52, 52, 52);
+    color: rgb(7, 217, 7);
+    font-size: 40px;
+}
+
+
+#warning2{
+    display: flex;
+}
+
+
+.warning3{
+    display: flex;
+}
+
+
+.warning4{
+    display: flex;
+}
+
+.warning5{
+    display: flex;
+}
+
+.warning6{
+    display: flex;
+}
